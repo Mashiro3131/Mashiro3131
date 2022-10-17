@@ -7,7 +7,7 @@
 
 - 🤝 I’m looking for help with **programming, learning new languages**
 
-- 📫 How to reach me **Discord : Mashiro#3131**
+- 📫 Reach me on discord : **Mashiro#3131**
 
 - ⚡ Fun fact **I'm 18**
 
