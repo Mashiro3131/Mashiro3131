@@ -1,7 +1,7 @@
 <h1 align="center">Hello there 👀, I'm Nico !</h1>
 <h4 align="center">I'm a 18yo passionate computer science student :)</h4>
 
-
+<h4 align="center">
 - 📚 I’m currently learning **C++, Python, Java and Cloud Computing**
 
 - 📖 I’m looking for help with **learning programming**
@@ -9,7 +9,7 @@
 - 👾 Reach me on discord : **Mashiro#3131**
 
 - 🌎 Based in Switzerland
-
+           </h4>
 
 <p>
 <h3 align="center">Languages and Tools:</h3>
