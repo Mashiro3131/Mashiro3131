@@ -2,11 +2,12 @@
 <h4 align="center">I'm a 18yo passionate computer science student :)</h4>
 
 <h4 align="left">
-- 📚 I’m currently learning **C++, Python, Java and Cloud Computing**
+           
+- 📚 I’m currently learing **C++, Python, Java and Cloud Computing**           
+ 
+- 📖 I’m looking for help to learn **programming**
 
-- 📖 I’m looking for help with **learning programming**
-
-- 👾 Reach me on discord : **Mashiro#3131**
+- 👾 Reach me on discord ! **Mashiro#3131**
 
 - 🌎 Based in Switzerland
            </h4>
