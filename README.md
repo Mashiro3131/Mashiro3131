@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nico !</h1>
 <h3 align="center">I'm a 18yo passionate computer science student :)</h3>
 
-<center> <img src="https://komarev.com/ghpvc/?username=mashiro3131&label=View%20Count&color=1aff7d&style=flat" alt="mashiro3131" /> </center>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=mashiro3131&label=View%20Count&color=1aff7d&style=flat" alt="mashiro3131" /> </p>
 
 - 📚 I’m currently learning **C++, Python, Java and Cloud Computing**
 
