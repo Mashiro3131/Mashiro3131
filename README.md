@@ -5,7 +5,7 @@
            
 - 📚 I’m currently learing **C++, Python, Java and Cloud Computing**           
  
-- 📖 I’m looking for help to learn **programming**
+- 📖 I’m looking for help to build an app in iOS
 
 - 👾 Reach me on discord ! **Mashiro#3131**
 
