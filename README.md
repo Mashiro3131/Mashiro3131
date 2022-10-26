@@ -1,11 +1,11 @@
-<h1 align="center">Hello there 👀, I'm Nico !</h1>
+<h1 align="center">Hello there, my name is Nico!</h1>
 <h4 align="center">I'm a 18yo passionate computer science student :)</h4>
 
 <h4 align="left">
            
 - 📚 I’m currently learing **C++, Python, Java and Cloud Computing**           
  
-- 📖 I’m looking for help to build an app in iOS
+- 📖 I’m looking for help to build an app for iOS in Swift!
 
 - 👾 Reach me on discord ! **Mashiro#3131**
 
