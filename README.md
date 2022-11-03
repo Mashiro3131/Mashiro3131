@@ -3,9 +3,9 @@
 
 <h4 align="left">
            
-- 📚 I’m currently learing **C++, Python Cloud Computing**           
+- 📚 I’m currently learing **C++, Python and Cloud Computing**           
  
-- 📖 I’m looking for help to build an app for iOS in Swift!
+- 📖 I’m looking for help to build an app for iOS in Swift using a API or learn new programming languages!
 
 - 👾 Reach me on discord ! **Mashiro#3131**
 
