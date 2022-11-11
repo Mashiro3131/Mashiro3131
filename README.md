@@ -23,6 +23,6 @@
 <h3 align="center">My certifications:</h3>
 
 
-<p align="center"> <a href="ProductPageURL](https://www.credly.com/badges/4f6011fd-c809-4139-8976-970224ed8297/linked_in_profile">
+<p align="center"> <a href="https://www.credly.com/badges/4f6011fd-c809-4139-8976-970224ed8297/linked_in_profile" target="_blank" rel="noreferrer">
 <img src="https://images.credly.com/size/340x340/images/2784d0d8-327c-406f-971e-9f0e15097003/image.png" alt="AWS Cloud Quest: Cloud Practitionner" width="200" height="200">
 </a>
