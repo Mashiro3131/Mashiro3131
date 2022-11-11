@@ -22,5 +22,11 @@
 
 
 <p>
-<h3 align="center">My certifications</h3>
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="4f6011fd-c809-4139-8976-970224ed8297" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+<h3 align="center">My certifications:</h3>
+
+<script>
+<div 
+data-iframe-width="150" data-iframe-height="270" data-share-badge-id="4f6011fd-c809-4139-8976-970224ed8297" data-share-badge-host="https://www.credly.com">
+</div>
+<script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+</script>
