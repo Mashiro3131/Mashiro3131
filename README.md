@@ -8,7 +8,7 @@
 - 📖 I’m looking for help to build an app for iOS in Swift using a API or learn new programming languages!
 
 - 👾 Reach me on discord ! **Mashiro#3131**
-
+           
 - 🌎 Based in Switzerland
 </h4>
 
