@@ -20,6 +20,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=mashiro3131&label=View%20Count&color=1aff7d&style=flat" alt="mashiro3131" /> </p>
 
+<h3 align="center">My certifications:</h3>
 
 
 <p align="center"> <a href="ProductPageURL](https://www.credly.com/badges/4f6011fd-c809-4139-8976-970224ed8297/linked_in_profile">
