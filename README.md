@@ -19,3 +19,9 @@
 
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=mashiro3131&label=View%20Count&color=1aff7d&style=flat" alt="mashiro3131" /> </p>
+
+
+
+<p align="center"> <a href="ProductPageURL](https://www.credly.com/badges/4f6011fd-c809-4139-8976-970224ed8297/linked_in_profile">
+<img src="https://images.credly.com/size/340x340/images/2784d0d8-327c-406f-971e-9f0e15097003/image.png" alt="AWS Cloud Quest: Cloud Practitionner">
+</a>
