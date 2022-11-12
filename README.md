@@ -1,11 +1,11 @@
 <h1 align="center">Hello there, my name is Nico!</h1>
-<h4 align="center">I'm a 18yo passionate computer science student :)</h4>
+<h4 align="center">I'm a 18yo passionate System Engineer Apprentice that love to learn new things! :)</h4>
 
 <h4 align="left">
            
-- 📚 I’m currently learing **C++, Python and Cloud Computing**           
+- 📚 I’m currently learing **C++, Python and Cloud Computing such as AWS, Infomaniac or Google Cloud and then AI & Machine learing after my python bootcamp!**      
  
-- 📖 I’m looking for help to build an app for iOS in Swift using a API or learn new programming languages!
+- 📖 I’m looking for volunteers to build an iOS app using a API using Flutter Framework or Swift and learn new programming languages!
 
 - 👾 Reach me on discord ! **Mashiro#3131**
            
