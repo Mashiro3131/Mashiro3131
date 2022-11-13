@@ -3,7 +3,7 @@
 
 <h4 align="left">
            
-- 📚 I’m currently learing **C++, Python and Cloud Computing such as AWS, Infomaniac or Google Cloud and then AI & Machine learing after my python bootcamp!**      
+- 📚 I’m currently learing **C++, Python and Cloud Computing using AWS, Infomaniak and Google Cloud. I would love to learn about machine learning, AI and data manipulation with Python in a near future!**      
  
 - 📖 I’m looking for volunteers to build an iOS app using a API using Flutter Framework or Swift and learn new programming languages!
 
