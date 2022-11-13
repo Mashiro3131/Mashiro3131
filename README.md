@@ -1,4 +1,5 @@
 <h1 align="center">Hello there, my name is Nico!</h1>
+
 <h4 align="center">I'm a 18yo passionate apprentice in System Engineering that loves to learn new technologies! :)</h4>
 
 <h4 align="left">
