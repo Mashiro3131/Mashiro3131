@@ -1,5 +1,5 @@
 <h1 align="center">Hello there, my name is Nico!</h1>
-<h4 align="center">I'm a 18yo passionate System Engineer Apprentice that love to learn new things! :)</h4>
+<h4 align="center">I'm a 18yo passionate apprentice in System Engineering that loves to learn new technologies! :)</h4>
 
 <h4 align="left">
            
@@ -8,8 +8,13 @@
 - 📖 I’m looking for volunteers to build an iOS app using a API using Flutter Framework or Swift and learn new programming languages!
 
 - 👾 Reach me on discord ! **Mashiro#3131**
+     
+- 🔰 New member of the [Google Developper Student Club (GDSC), EPFL](https://gdsc.community.dev/epfl/)
+
+- 🗣 I speak French, English, German, Swiss German and Finnish
            
 - 🌎 Based in Switzerland
+           
 </h4>
 
 
