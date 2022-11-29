@@ -10,8 +10,7 @@
 
 - 👾 Reach me on discord ! **Mashiro#3131**
      
-- 🔰 New member of the [Google Developper Student Club (GDSC), EPFL](https://gdsc.community.dev/epfl/) and [ETH Zürich !]([https://gdsc.community.dev/eth/](https://gdsc.community.dev/eth-zurich/)
-
+- 🔰 New member of the [Google Developper Student Club (GDSC), EPFL](https://gdsc.community.dev/epfl/) and [ETH Zürich !](https://gdsc.community.dev/eth-zurich/)
 - 🗣 I speak French, English, Swiss German, German and Finnish
            
 - 🌎 Based in Switzerland
