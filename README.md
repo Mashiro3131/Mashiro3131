@@ -1,18 +1,20 @@
-<h1 align="center">Hello, my name is Nico!</h1>
+# Hello, thanks for stopping by, my name is Nico !
 
-# About Me
- I'm a 18yo passionate apprentice in System Engineering that loves to learn about new technologies! :)          
-           
-- 📚 I’m currently learing **C++, Python and Cloud Computing using AWS, Infomaniak. I would love to learn about machine learning, AI and data manipulation with Python in a near future!**      
+## About Me
+
+- I'm a 18yo passionate apprentice in System Engineering (Exploitation et Infrastructure CFC) that loves to learn about new technologies!    
+
+
+## Currently
  
-- 📖 I’m looking for volunteers to build an iOS app using a API using Flutter Framework or Swift and learn new programming languages!
+- 📖 Learning the basics of Python, C++, Cloud Computing (AWS, Infomaniak) through courses and projects.
      
 - 🔰 New member of the [Google Developper Student Club (GDSC), EPFL](https://gdsc.community.dev/epfl/) and [ETH Zürich !](https://gdsc.community.dev/eth-zurich/)
 
 - 🗣 I speak French, English, Swiss German, German and Finnish
            
 - 🌎 Based in Switzerland
-- 
+
 - 👾 Reach me on discord ! **Mashiro#3131**
 
 ## 🚩 CTF
