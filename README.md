@@ -1,10 +1,9 @@
-<h1 align="center">Hello there, my name is Nico!</h1>
+<h1 align="center">Hello, my name is Nico!</h1>
 
-<h4 align="center">I'm a 18yo passionate apprentice in System Engineering that loves to learn new technologies! :)</h4>
-
-<h4 align="left">
+# About Me
+ I'm a 18yo passionate apprentice in System Engineering that loves to learn about new technologies! :)          
            
-- 📚 I’m currently learing **C++, Python and Cloud Computing using AWS, Infomaniak and Google Cloud. I would love to learn about machine learning, AI and data manipulation with Python in a near future!**      
+- 📚 I’m currently learing **C++, Python and Cloud Computing using AWS, Infomaniak. I would love to learn about machine learning, AI and data manipulation with Python in a near future!**      
  
 - 📖 I’m looking for volunteers to build an iOS app using a API using Flutter Framework or Swift and learn new programming languages!
 
@@ -18,7 +17,10 @@
 </h4>
 
 
-<h3 align="center">Languages and Tools I'm learning and have learned:</h3>
+## 🚩 CTF
+<img src="https://tryhackme-badges.s3.amazonaws.com/Mashiro3131.png" alt="TryHackMe">
+
+<h3>Languages and Tools I'm learning and have learned:</h3>
 
 <p align="center"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p> </p>
 
