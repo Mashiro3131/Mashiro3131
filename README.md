@@ -30,7 +30,7 @@
 4. Do CTF, Cloud, ML Certifications
 
 
-<h3 align="center">My certifications:</h3>
+<h3>Certifications:</h3>
 
 
 <p align="center"> <a href="https://www.credly.com/badges/4f6011fd-c809-4139-8976-970224ed8297/linked_in_profile" target="_blank" rel="noreferrer">
