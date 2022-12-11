@@ -18,9 +18,10 @@
 - 👾 Reach me on discord ! **Mashiro#3131**
 
 ## 🚩 CTF
-<p><a href="https://tryhackme.com/p/Mashiro3131" target="_blank" rel="noreferrer">
-<img src="https://tryhackme-badges.s3.amazonaws.com/Mashiro3131.png" alt="TryHackMe">
-</a></p>
+
+
+<img src="https://files.catbox.moe/ssgows.gif" alt="tryhackme profile" />
+
 
 ## 💻 Languages that I am currently learning:
 
