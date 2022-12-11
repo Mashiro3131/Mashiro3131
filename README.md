@@ -18,17 +18,28 @@
 - 👾 Reach me on discord ! **Mashiro#3131**
 
 ## 🚩 CTF
-
-<img src="https://media3.giphy.com/media/l7V8EEcb3w4u4HaAkQ/giphy.gif" alt="cplusplus" width="437,5" height="129"/>
+<!-- GIF image, redirecting to the my CTF profile -->
+<a href="https://tryhackme.com/p/Mashiro3131" target="_blank" rel="noreferrer">
+   <img src="https://media3.giphy.com/media/l7V8EEcb3w4u4HaAkQ/giphy.gif" alt="cplusplus" width="437,5" height="129"/>
+</a>
 
 - 🏆 = Rank
 - 🚪= Rooms Completed
 - 🎯 = Badges Earned
 
+**The stats might be outdated since it can't be realtime updated, click the picture to see the updated version !*
 
 ## 💻 Languages that I am currently learning:
 
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a><a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
+<!-- Python logo -->
+<a href="https://www.python.org" target="_blank" rel="noreferrer">
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+</a>
+
+<!-- C++ logo -->
+<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
+</a>
 
 ## 🚧 Future projects
 1. Learn and work with ML & AI
@@ -39,7 +50,9 @@
 
 ## ✔️ Certifications
 
-
-<p> <a href="https://www.credly.com/badges/4f6011fd-c809-4139-8976-970224ed8297/linked_in_profile" target="_blank" rel="noreferrer">
-<img src="https://images.credly.com/size/340x340/images/2784d0d8-327c-406f-971e-9f0e15097003/image.png" alt="AWS Cloud Quest: Cloud Practitionner" width="150" height="150">
-</a></p>
+<!-- My AWS Cloud Quest: Cloud Practicioner certification -->
+<p> 
+ <a href="https://www.credly.com/badges/4f6011fd-c809-4139-8976-970224ed8297/linked_in_profile" target="_blank" rel="noreferrer">
+  <img src="https://images.credly.com/size/340x340/images/2784d0d8-327c-406f-971e-9f0e15097003/image.png" alt="AWS Cloud Quest: Cloud Practitionner" width="150" height="150">
+ </a>
+</p>
