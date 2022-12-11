@@ -20,8 +20,9 @@
 ## 🚩 CTF
 
 
-<img src="https://files.catbox.moe/ssgows.gif" alt="tryhackme profile" />
 
+<img src="https://media3.giphy.com/media/l7V8EEcb3w4u4HaAkQ/giphy.gif" alt="cplusplus" width="437,5" height="129"/>
+          🏆 = Rank  🚪= Rooms Completed  🎯 = Badges Earned
 
 ## 💻 Languages that I am currently learning:
 
