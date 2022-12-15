@@ -52,7 +52,7 @@
 
 <!-- My AWS Cloud Quest: Cloud Practicioner certification -->
 <p> 
- <a href="https://www.credly.com/badges/4f6011fd-c809-4139-8976-970224ed8297/linked_in_profile" target="_blank" rel="noreferrer">
+ <a href="https://www.credly.com/badges/4f6011fd-c809-4139-8976-970224ed8297/public_url" target="_blank" rel="noreferrer">
   <img src="https://images.credly.com/size/340x340/images/2784d0d8-327c-406f-971e-9f0e15097003/image.png" alt="AWS Cloud Quest: Cloud Practitionner" width="150" height="150">
  </a>
 </p>
