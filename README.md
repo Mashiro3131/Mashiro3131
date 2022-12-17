@@ -23,6 +23,10 @@
 - 👾 Reach me on discord ! **Mashiro#3131**
 
 ## 🚩 Capture The Flag
+<!--TryHackMe Profile -->
+<a href="https://tryhackme.com/p/Mashiro3131" target="_blank" rel="noreferrer">
+ <img src="https://tryhackme-badges.s3.amazonaws.com/Mashiro3131.png?2" alt="TryHackMeV2">
+</a>
 
 
 <!-- Old
