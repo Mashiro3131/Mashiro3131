@@ -1,4 +1,9 @@
-# Hello, thanks for stopping by, my name is Nico !
+<!-- Profile Introduction -->
+<p align="center">
+ <a href="https://www.linkedin.com/in/nico-mengisen-9890b4203/">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hello,%20I'm%20Nico%20aka%20Mashiro3131!;Apprentice%20in%20System%20Engineering;2nd%20year%20of%20apprenticeship!;Always%20discovering%20new%20tech!:D&font=Fira%20Code&center=true&width=440&height=45&color=F70000&Center=true&pause=1000&size=22" />
+ </a>
+</p>
 
 ## About Me
 
@@ -21,7 +26,7 @@
 
 <!--TryHackMe Profile -->
 <a href="https://tryhackme.com/p/Mashiro3131" target="_blank" rel="noreferrer">
- <img src="https://tryhackme-badges.s3.amazonaws.com/Mashiro3131.png" alt="TryHackMe">
+ <img src="https://tryhackme-badges.s3.amazonaws.com/Mashiro3131.png" alt="TryHackMeV2">
 </a>
 
 <!-- Old
