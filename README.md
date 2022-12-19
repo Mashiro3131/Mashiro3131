@@ -7,39 +7,17 @@
 
 ## About Me
 
-- I'm a 18yo passionate apprentice in System Engineering (Exploitation et Infrastructure CFC) that loves to learn about new technologies!    
-
-
-## Currently
+- 👨‍💻 I'm a 18yo passionate apprentice in System Engineering (Exploitation et Infrastructure CFC) that loves to learn about new technologies!    
  
 - 📖 Learning the basics of Python, C++, Cloud Computing (AWS, Infomaniak) through courses and projects.
      
 - 🔰 New member of the [Google Developper Student Club (GDSC), EPFL](https://gdsc.community.dev/epfl/) and [ETH Zürich !](https://gdsc.community.dev/eth-zurich/)
 
 - 🗣 I speak French, English, Swiss German, German and Finnish
-           
-- 🌎 Based in Switzerland
 
 - 👾 Reach me on discord ! **Mashiro#3131**
 
-## 🚩 Capture The Flag
-<!--TryHackMe Profile -->
-<a href="https://tryhackme.com/p/Mashiro3131" target="_blank" rel="noreferrer">
- <img src="https://tryhackme-badges.s3.amazonaws.com/Mashiro3131.png?2" alt="TryHackMeV2">
-</a>
-
-
-<!-- Old
-<a href="https://tryhackme.com/p/Mashiro3131" target="_blank" rel="noreferrer">
-   <img src="https://media3.giphy.com/media/l7V8EEcb3w4u4HaAkQ/giphy.gif" alt="TryHackMe" width="437,5" height="129"/>
-</a>
--->
-
-- 🏆 = Rank
-- 🚪= Rooms Completed
-- 🎯 = Badges Earned
-
-**The stats might be outdated since it can't be updated in realtime, click the picture to see the updated version !*
+- 🌎 Based in Switzerland
 
 ## 💻 What I'm currently learning:
 
@@ -62,6 +40,34 @@
 <a href="https://www.infomaniak.com/en/hosting/public-cloud" target="_blank" rel="noreferrer"> 
  <img src="https://www.infomaniak.com/img/company/logos/logo-k.svg" alt="infomaniak_logo" width="40" height="40"/>
 </a>
+
+<!-- TryHackme logo -->
+<a href="https://tryhackme.com/" target="_blank" rel="noreferrer"> 
+ <img src="https://assets.tryhackme.com/img/logo/tryhackme_logo_full.svg" alt="THM_logo" width="76" height="40"/>
+</a>
+
+
+
+## 🚩 Capture The Flag
+<!--TryHackMe Profile -->
+<a href="https://tryhackme.com/p/Mashiro3131" target="_blank" rel="noreferrer">
+ <img src="https://tryhackme-badges.s3.amazonaws.com/Mashiro3131.png?2" alt="TryHackMeV2">
+</a>
+
+
+<!-- Old
+<a href="https://tryhackme.com/p/Mashiro3131" target="_blank" rel="noreferrer">
+   <img src="https://media3.giphy.com/media/l7V8EEcb3w4u4HaAkQ/giphy.gif" alt="TryHackMe" width="437,5" height="129"/>
+</a>
+-->
+
+- 🏆 = Rank
+- 🚪= Rooms Completed
+- 🎯 = Badges Earned
+
+**The stats might be outdated since it can't be updated in realtime, click the picture to see the updated version !*
+
+
 
 ## 🚧 Future projects
 1. Learn Python for Data Analysis
