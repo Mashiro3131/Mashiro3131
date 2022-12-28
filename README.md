@@ -65,7 +65,7 @@
 - 🚪= Rooms Completed
 - 🎯 = Badges Earned
 
-**The stats might be outdated since it can't be updated in realtime, click the picture to see the updated version !*
+**The stats might be outdated... click the badge to see the updated version !*
 
 
 
