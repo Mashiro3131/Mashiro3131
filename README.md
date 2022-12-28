@@ -73,7 +73,7 @@
 1. Learn Python and Scala
 2. Learn more about BigData and start work with ML & AI
 3. Continue learning Java
-4. Do CTF, Cloud, ML Certifications
+4. Do Cybersecurity, Cloud, ML Certifications
 5. Learn & build an app with Flutter
 
 
