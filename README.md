@@ -19,7 +19,7 @@
 
 - 🌎 Based in Switzerland
 
-## 💻 What I'm currently learning:
+## 💻 Currently learning
 
 <!-- Python logo -->
 <a href="https://www.python.org" target="_blank" rel="noreferrer">
