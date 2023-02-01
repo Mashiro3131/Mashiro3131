@@ -70,10 +70,10 @@
 
 
 ## 🚧 Future projects
-1. Learn Python and Scala
+1. Learn Azure and Python
 2. Learn more about BigData and start work with ML & AI
-3. Continue learning Java
-4. Do Cybersecurity, Cloud, ML Certifications
+3. Do Cybersecurity, Cloud, Data Science Certifications
+4. Continue learning Java and C++
 5. Learn & build an app with Flutter
 
 
