@@ -9,9 +9,9 @@
 
 - 👨‍💻 I'm a 18yo passionate apprentice in System Engineering (Exploitation et Infrastructure CFC) that loves to learn about new technologies!    
  
-- 📖 Learning the basics of Python, C++, Cloud Computing (AWS, Infomaniak) through work, courses and projects.
+- 📖 Learning the basics of Python, C++, Cloud Computing (AWS, Infomaniak) through courses and projects.
      
-- 🔰 New member of the [Google Developper Student Club (GDSC), EPFL](https://gdsc.community.dev/epfl/) and [ETH Zürich !](https://gdsc.community.dev/eth-zurich/)
+- 🔰 New member of the [Google Developper Student Club (GDSC), EPFL](https://gdsc.community.dev/epfl/) and [ETH Zürich](https://gdsc.community.dev/eth-zurich/) !
 
 - 🗣 I speak French, English, Swiss German, German and Finnish
 
