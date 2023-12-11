@@ -7,7 +7,7 @@
 
 ## About Me
 
-- 👨‍💻 I'm a 19yo passionate apprentice in System Engineering (Exploitation et Infrastructure CFC) that loves to learn about new technologies!    
+- 👨‍💻 I'm a 19yo passionate apprentice in System Engineering (Exploitation et Infrastructure CFC) that loves to discover new technologies!    
  
 - 📖 Learning the basics of Python, C++, Cloud Computing (AWS, Infomaniak) through courses and projects.
      
